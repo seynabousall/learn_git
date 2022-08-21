@@ -16,3 +16,4 @@
 ![Capture git add](https://user-images.githubusercontent.com/110737235/185793642-98542f49-8ca5-43a9-975b-01256b960d29.PNG)
 ![Capture git commit(suppression de tiers txt)](https://user-images.githubusercontent.com/110737235/185793696-b76f1a90-279b-4b5f-ab6f-c788f14cd219.PNG)
 ![Capture git log(suppression de tiers  txt)](https://user-images.githubusercontent.com/110737235/185793787-3d0e8bab-b7b6-4428-ac5c-a6bfe445155d.PNG)
+![Capture modifier les para glob en core pager](https://user-images.githubusercontent.com/110737235/185793821-f5b03b0d-0bf7-4aec-a0f0-b90680ca2cb6.PNG)
