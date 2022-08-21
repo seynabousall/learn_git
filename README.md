@@ -10,3 +10,4 @@
 ![Capture git commit(ajout d'un tiers txt)](https://user-images.githubusercontent.com/110737235/185793030-b2310ef9-a1e1-4b0a-8b2c-ed8440ff9208.PNG)
 ![Capture git log(ajout d'un tiers  txt)](https://user-images.githubusercontent.com/110737235/185793148-609fc25d-00f8-42c8-94c3-7cbd9dd2d6a6.PNG)
 [Capture crèer un fichier fourth.txt](https://github.com/seynabousall/learn_git/files/9389178/Capture.creer.un.fichier.fourth.txt)
+[Capture ajouter le quatrième.txt](https://github.com/seynabousall/learn_git/files/9389180/Capture.ajouter.le.quatrieme.txt)
