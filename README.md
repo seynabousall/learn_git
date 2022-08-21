@@ -18,3 +18,5 @@
 ![Capture git log(suppression de tiers  txt)](https://user-images.githubusercontent.com/110737235/185793787-3d0e8bab-b7b6-4428-ac5c-a6bfe445155d.PNG)
 ![Capture modifier les para glob en core pager](https://user-images.githubusercontent.com/110737235/185793821-f5b03b0d-0bf7-4aec-a0f0-b90680ca2cb6.PNG)
 ![Capture lister tous les git config](https://user-images.githubusercontent.com/110737235/185793880-120be97a-2ee7-4a7e-bbe3-6cbe30a5cf2d.PNG)
+![Capture git config global](https://user-images.githubusercontent.com/110737235/185793958-c7777d96-0a9c-47d7-a29d-4af53dc655b8.PNG)
+![Capture git config global suite](https://user-images.githubusercontent.com/110737235/185793969-1948bff0-bd62-4b78-a6da-f1df473a6d50.PNG)
