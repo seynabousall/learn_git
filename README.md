@@ -15,3 +15,4 @@
 [Capture supprimez le troisieme fichier.txt](https://github.com/seynabousall/learn_git/files/9389189/Capture.supprimez.le.troisieme.fichier.txt)
 ![Capture git add](https://user-images.githubusercontent.com/110737235/185793642-98542f49-8ca5-43a9-975b-01256b960d29.PNG)
 ![Capture git commit(suppression de tiers txt)](https://user-images.githubusercontent.com/110737235/185793696-b76f1a90-279b-4b5f-ab6f-c788f14cd219.PNG)
+![Capture git log(suppression de tiers  txt)](https://user-images.githubusercontent.com/110737235/185793787-3d0e8bab-b7b6-4428-ac5c-a6bfe445155d.PNG)
