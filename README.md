@@ -5,3 +5,4 @@
 ![Capture git init](https://user-images.githubusercontent.com/110737235/185769989-123e2d39-97ec-4061-a345-16dc59ebfa83.PNG)
 
 [Capture git add la troisieme.txt](https://github.com/seynabousall/learn_git/files/9389159/Capture.git.add.la.troisieme.txt)
+[Capture git commit(ajout d'un tiers txt)](https://user-images.githubusercontent.com/110737235/185792815-98599fe3-1d71-44e7-9a2f-5d5b189e8df0.PNG)
