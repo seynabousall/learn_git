@@ -4,4 +4,4 @@
 [Capture créer un fichier appelé tiers.txt.txt](https://github.com/seynabousall/learn_git/files/9388167/Capture.creer.un.fichier.appele.tiers.txt.txt)
 ![Capture git init](https://user-images.githubusercontent.com/110737235/185769989-123e2d39-97ec-4061-a345-16dc59ebfa83.PNG)
 
-![Capture git add](https://user-images.githubusercontent.com/110737235/185792549-0bedd2bc-cf59-40d3-8702-83a131dae7d8.PNG)
+[Capture git add la troisieme.txt](https://github.com/seynabousall/learn_git/files/9389159/Capture.git.add.la.troisieme.txt)
