@@ -6,5 +6,5 @@
 
 [Capture git add la troisieme.txt](https://github.com/seynabousall/learn_git/files/9389159/Capture.git.add.la.troisieme.txt)
 
-[Capture git commit(ajout d'un tiers txt)](https://user-images.githubusercontent.com/110737235/185792815-98599fe3-1d71-44e7-9a2f-5d5b189e8df0.PNG)
+
 ![Capture git commit(ajout d'un tiers txt)](https://user-images.githubusercontent.com/110737235/185793030-b2310ef9-a1e1-4b0a-8b2c-ed8440ff9208.PNG)
