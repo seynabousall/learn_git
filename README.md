@@ -13,3 +13,4 @@
 [Capture ajouter le quatrième.txt](https://github.com/seynabousall/learn_git/files/9389180/Capture.ajouter.le.quatrieme.txt)
 ![Capture git commit (quatrieme txt)](https://user-images.githubusercontent.com/110737235/185793479-03cdd533-e48b-4b6a-8b47-49fbf8f883f7.PNG)
 [Capture supprimez le troisieme fichier.txt](https://github.com/seynabousall/learn_git/files/9389189/Capture.supprimez.le.troisieme.fichier.txt)
+![Capture git add](https://user-images.githubusercontent.com/110737235/185793642-98542f49-8ca5-43a9-975b-01256b960d29.PNG)
