@@ -3,7 +3,8 @@
 
 ![Capture cd learn_git](https://user-images.githubusercontent.com/110737235/185769654-20ebfd64-c035-423a-b2f9-3f4de515438e.PNG)
 
-[Capture créer un fichier appelé tiers.txt.txt](https://github.com/seynabousall/learn_git/files/9388167/Capture.creer.un.fichier.appele.tiers.txt.txt)
+[Capture crèer un fichier appelè tiers.txt](https://github.com/seynabousall/learn_git/files/9389326/Capture.creer.un.fichier.appele.tiers.txt)
+
 
 ![Capture git init](https://user-images.githubusercontent.com/110737235/185769989-123e2d39-97ec-4061-a345-16dc59ebfa83.PNG)
 
